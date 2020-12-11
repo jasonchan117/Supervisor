@@ -1,2 +1,2 @@
 # linux
-Studying of linux system
+Study of linux system
